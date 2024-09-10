@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Cloud services.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on Web Development, all areas.
-- 📫 How to reach me: zsrivistava@proton.me.
+- 📫 How to reach me: N/A
 
 <!---
 Kedaws/Kedaws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
